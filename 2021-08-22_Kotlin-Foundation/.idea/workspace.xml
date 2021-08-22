@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39998fb2-fb09-4478-9b27-e9e788d2198a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NullPoint.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2021-08-20_Kotlin-Foundation2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2021-08-20_Kotlin-Foundation2/.idea/gradle.xml" afterDir="false" />
-    </list>
+    <list default="true" id="39998fb2-fb09-4478-9b27-e9e788d2198a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,5 +56,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
